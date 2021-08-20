@@ -11,3 +11,12 @@
 <br>
 
 ## 3. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
+
+<br>
+
+## 📓 Author
+
+![Logo](https://user-images.githubusercontent.com/19915910/120965966-81203b00-c7a0-11eb-8ef4-a42c0642db4c.png)
+
+- Github: [@JRPerezJr](https://github.com/JRPerezJr)
+- LinkedIn: [@devjperez](https://linkedin.com/in/devjperez)
