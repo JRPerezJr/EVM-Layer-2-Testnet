@@ -8,7 +8,7 @@
 <br>
 
 ## 2. A link to the Layer 1 address you funded on the Testnet Explorer.
-[Layer1 address](https://explorer.nervos.org/aggron/address/ckt1qyqv2wjwurrcnvg2rs4kgyaxdahltarqa3nss5jy62)
+[Layer 1 address](https://explorer.nervos.org/aggron/address/ckt1qyqv2wjwurrcnvg2rs4kgyaxdahltarqa3nss5jy62)
 
 <p align="center"><a href="https://explorer.nervos.org/aggron/address/ckt1qyqv2wjwurrcnvg2rs4kgyaxdahltarqa3nss5jy62"><img src="https://user-images.githubusercontent.com/19915910/130256897-872b73a1-5517-4e7e-8a90-75c2a543a90d.png" alt="Layer1 Link Address" height="100%" target="_blank" rel="noopener noreferrer"/></a></p>
 
